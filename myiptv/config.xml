@@ -9,7 +9,7 @@
 	<BigListIcon itemtype="string">icon/webtv2_95_78.png</BigListIcon>
 	<category itemtype="string">video</category>
 	<autoUpdate itemtype="boolean">n</autoUpdate>
-	<ver itemtype="string">0.101</ver>
+	<ver itemtype="string">0.102</ver>
 	<mgrver itemtype="string"></mgrver>
 	<fullwidget itemtype="boolean">y</fullwidget>
 	<type itemtype="string">user</type>
@@ -18,13 +18,13 @@
 	<childlock itemtype="boolean">n</childlock>
 	<videomute itemtype="boolean">n</videomute>
 	<dcont itemtype="boolean">y</dcont>
-	<widgetname itemtype="string">IPTV by Asenov...</widgetname>
+	<widgetname itemtype="string">IPTV by Asenov with tweaks by Malmis...</widgetname>
 	<description itemtype="string"></description>
 	<width itemtype="string">1280</width>
 	<height itemtype="string">720</height>
 	<author itemtype="group"> 
 		<name itemtype="string">O.</name>
-		<email itemtype="string">asenov@gmail.com</email>
+		<email itemtype="string">kristoffer@malmstrom.xyz</email>
 		<link itemtype="string"></link>
 		<organization itemtype="string"></organization>
 	</author>
