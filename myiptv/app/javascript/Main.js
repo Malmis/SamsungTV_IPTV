@@ -48,10 +48,10 @@ var channelList =
 			{name:'Taivas TV7 FI', url:'http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8'},
 			{name:'Västmanlands TV SE', url:'https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8'},
 			//{name:'Malmö Mediakanal SE', url:'https://edge-83-140-64-214-se-iponly-dcs.solidtango.com/edge/_8ynhbua3_/8ynhbua3/manifest.m3u8?fluxustv.m3u8'},
-			{name:'Öppna Kanalen SE', url:'http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8'},
+			{name:'Öppna Kanalen SE', url:'http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8'}
 			//{name:'Himlen TV7 SE', url:'http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8'},
 			//{name:'Kanal 10 SV', url:'https://cdn-kanal10.crossnet.net/kanal10/mp4:mpegts.stream/playlist.m3u8'},
-			//{name:'Kanal 10 NO', url:'http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8'}
+			//{name:'Kanal 10 NO', url:'http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8'},
 			//{name:'', url:''},
 			//{name:'', url:''},
 			//{name:'', url:''},
