@@ -3,7 +3,7 @@
   <list>
    <widget id="MyIPTV">
       <title>MyIPTV app by Asenov</title>
-      <compression size="54001" type="zip"/>
+      <compression size="55246" type="zip"/>
       <description>Allows to play hls streams</description>
       <download>http://192.168.1.70:888/samsungtvapps/myiptv.zip</download>
     </widget>
