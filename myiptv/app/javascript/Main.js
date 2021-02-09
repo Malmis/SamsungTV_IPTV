@@ -51,7 +51,7 @@ var channelList =
 			//{name:'Taivas TV7 FI', url:'https://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8'},
 			{name:'Västmanlands TV SE', url:'https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8'},
 			{name:'Malmö Mediakanal SE', url:'https://edg01-prd-se-ixn.solidtango.com/edge/_8ynhbua3_/8ynhbua3/playlist.m3u8'},
-			{name:'Öppna Kanalen SE', url:'https://edg01-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8'},
+			{name:'Öppna Kanalen SE', url:'https://edg01-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8'}
 			//{name:'ABC News Digital', url:'https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8'},
 			//{name:'ABC News Digital 2', url:'https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8'},
 			//{name:'ABC News Digital 3', url:'https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8'},
@@ -61,7 +61,7 @@ var channelList =
 			//{name:'ABC News Digital 7', url:'https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8'},
 			//{name:'ABC News Digital 8', url:'https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8'},
 			//{name:'ABC News Digital 9', url:'https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8'},
-			//{name:'ABC News Digital 10', url:'https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8'}
+			//{name:'ABC News Digital 10', url:'https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8'},
 			//{name:'Himlen TV7 SE', url:'https://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8'},
 			//{name:'Kanal 10 SV', url:'https://cdn-kanal10.crossnet.net/kanal10/mp4:mpegts.stream/playlist.m3u8'},
 			//{name:'Kanal 10 NO', url:'https://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8'},
