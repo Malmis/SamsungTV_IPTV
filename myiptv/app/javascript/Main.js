@@ -15,7 +15,7 @@ var channelList =
 			{name:'DiTV SE', url:'https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8'},
 			{name:'Expressen TV SE', url:'https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8'},
 			{name:'SportExpressen SE', url:'https://httpcache0-03837-cachelive6.dna.qbrick.com/03837-cachelive6/smil:03837_tx6_720p/playlist.m3u8'},
-			{name:'Red Bull TV', url:'https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8'},
+			{name:'Red Bull TV', url:'https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8'},
 			{name:'EDGESport', url:'https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8'},
 			{name:'Russia Today UK', url:'https://rt-uk.secure.footprint.net/1106.m3u8'},
 			{name:'NASA TV Public-Education', url:'https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8'},
@@ -51,6 +51,7 @@ var channelList =
 			//{name:'Taivas TV7 FI', url:'https://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8'},
 			{name:'Västmanlands TV SE', url:'https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8'},
 			{name:'Malmö Mediakanal SE', url:'https://edg01-prd-se-ixn.solidtango.com/edge/_8ynhbua3_/8ynhbua3/playlist.m3u8'},
+			{name:'Öppna Kanalen Skövde', url:'http://video.webbplay.se:1935/livetv/lokaltv/chunklist_w157052994.m3u8'},
 			{name:'Öppna Kanalen SE', url:'https://edg01-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8'}
 			//{name:'ABC News Digital', url:'https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8'},
 			//{name:'ABC News Digital 2', url:'https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8'},
